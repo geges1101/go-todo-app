@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "frida-compile": "^9.5.2"
+  }
+}
